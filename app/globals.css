@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.page {
+  border: 2px solid black;
+  border-radius: 2px;
+  padding: 20px;
+}
+
+.dropped-items {
+  margin-top: 10px;
+}
